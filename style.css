@@ -548,6 +548,7 @@ height: 100%;
 		font-size: 1.25vw;
 		font-weight: bold;
 		/* padding-top: 9vh; */
+		width: 100%;
 }
 .DivHover h3{
 	font-size: 1.15vw;
@@ -708,4 +709,7 @@ width: 45%;
   .lang{
 	font-size: 22px;
 	color: white;
+  }
+  .DivHover h1{
+	width: 100%;
   }
